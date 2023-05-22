@@ -8,9 +8,7 @@ const AppContainer =styled.div`
     background-image: linear-gradient(90deg,#002F52 35%,#326589 165%);
   }
 
-  li {
-    list-style: none;    
-  }
+ 
 `
 
 function App() {
